@@ -1,0 +1,85 @@
+[
+  {
+    "id": "welcome-to-the-mega-blog",
+    "title": "Welcome to the Mega blog",
+    "cat": "News",
+    "date": "2026-10-28T09:00:00+05:30",
+    "pinned": true,
+    "sample": true,
+    "images": [
+      "assets/img/process-technologies-img-home-v2.jpg"
+    ],
+    "body": "This is where we share **project updates**, technology notes, awards and news from our Pune team.\n\nTap any post to read it, like it, save it or share the link.\n\n- Projects delivered around the world\n- Process technology explained simply\n- Company news and events\n\n#Mega #Engineering #Pune"
+  },
+  {
+    "id": "50-klpd-ethanol-plant-philippines",
+    "title": "50 KLPD ethanol plant delivered in the Philippines",
+    "cat": "Projects",
+    "date": "2026-10-26T10:00:00+05:30",
+    "sample": true,
+    "images": [
+      "assets/img/Distillery-Fuel-Ethanol.jpg",
+      "assets/img/IMG20220714171128-1.jpg"
+    ],
+    "body": "A complete turnkey ethanol production facility delivered for a leading sugar mill in the Philippines, featuring advanced **fermentation and distillation** technologies with **99.5% purity** output.\n\n#Ethanol #Turnkey #Distillery"
+  },
+  {
+    "id": "biocng-maharashtra-clean-fuel",
+    "title": "BioCNG: turning agricultural waste into clean fuel",
+    "cat": "Projects",
+    "date": "2026-10-24T11:30:00+05:30",
+    "sample": true,
+    "images": [
+      "assets/img/Bio-CNG.jpg",
+      "assets/img/IMG202207141703251-3.jpg"
+    ],
+    "body": "Our BioCNG plant in Maharashtra processes agricultural waste to produce clean transportation fuel, reducing the carbon footprint by **85%** compared to conventional fuels.\n\n#BioCNG #CleanFuel #Sustainability"
+  },
+  {
+    "id": "95-percent-water-recovery-zld",
+    "title": "95% water recovery with Zero Liquid Discharge",
+    "cat": "Technology",
+    "date": "2026-10-22T09:30:00+05:30",
+    "sample": true,
+    "images": [
+      "assets/img/Zero-Liquid-plants.jpg"
+    ],
+    "body": "A wastewater treatment system achieving **95% water recovery** for a major chemical processing facility, eliminating liquid waste discharge and reducing operational costs.\n\n#ZLD #Water #Chemical"
+  },
+  {
+    "id": "three-consecutive-eepc-awards",
+    "title": "3 consecutive awards from EEPC INDIA",
+    "cat": "Awards",
+    "date": "2026-10-20T12:00:00+05:30",
+    "sample": true,
+    "images": [
+      "assets/img/video-thumbnail-.jpg"
+    ],
+    "body": "We are proud to have received **3 consecutive awards by EEPC INDIA**. Thank you to our customers, partners and the 110+ engineers and professionals behind every project.\n\n#Awards #EEPC #Trust"
+  },
+  {
+    "id": "why-modular-skid-mounted-plants",
+    "title": "Why modular skid-mounted plants save time on site",
+    "cat": "Technology",
+    "date": "2026-10-18T10:15:00+05:30",
+    "sample": true,
+    "images": [
+      "assets/img/IMG2022071417091710-1.jpg",
+      "assets/img/450-x-505pxl-11.jpg"
+    ],
+    "body": "Modular skid-mounted plant supply reduces project execution time and minimizes site work significantly.\n\nBuilding in the workshop means tighter quality control, faster commissioning and fewer surprises on site.\n\n#Skid #Modular #Delivery"
+  },
+  {
+    "id": "from-feedstock-to-fuel",
+    "title": "From feedstock to fuel: how an ethanol plant works",
+    "cat": "Blog",
+    "date": "2026-10-15T08:45:00+05:30",
+    "sample": true,
+    "images": [
+      "assets/img/Evaporation-and-Dryer.jpg",
+      "assets/img/Distillery-Fuel-Ethanol.jpg",
+      "assets/img/Critical-Process-Equipment.jpg"
+    ],
+    "body": "## The short version\n\nGrain, cane juice or biomass goes in. Fuel-grade ethanol, by-products and recycled water come out.\n\n## The main stages\n\n- **Feedstock** is received and prepared\n- **Fermentation** turns sugars into alcohol\n- **Distillation** concentrates the alcohol (ENA or rectified spirit)\n- **Dehydration** brings it to anhydrous, fuel grade\n\n## Nothing is wasted\n\nSpent wash is concentrated in **MEE** evaporators, by-products are dried, and **ZLD** systems recover the water for reuse.\n\n#Ethanol #HowItWorks #MEE #ZLD"
+  }
+]
